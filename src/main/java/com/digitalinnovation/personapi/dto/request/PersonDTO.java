@@ -1,6 +1,6 @@
 package com.digitalinnovation.personapi.dto.request;
 
-import com.digitalinnovation.personapi.entity.Phone;
+import com.digitalinnovation.personapi.entities.Phone;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

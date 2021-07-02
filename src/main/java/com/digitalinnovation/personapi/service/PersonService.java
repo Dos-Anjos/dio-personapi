@@ -2,7 +2,7 @@ package com.digitalinnovation.personapi.service;
 
 import com.digitalinnovation.personapi.dto.request.PersonDTO;
 import com.digitalinnovation.personapi.dto.response.MessageResponseDTO;
-import com.digitalinnovation.personapi.entity.Person;
+import com.digitalinnovation.personapi.entities.Person;
 import com.digitalinnovation.personapi.exception.PersonNotFoundException;
 import com.digitalinnovation.personapi.dto.mapper.PersonMapper;
 import com.digitalinnovation.personapi.repository.PersonRepository;

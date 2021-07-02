@@ -1,4 +1,4 @@
-package com.digitalinnovation.personapi.entity;
+package com.digitalinnovation.personapi.entities;
 
 import com.digitalinnovation.personapi.enums.PhoneType;
 import lombok.AllArgsConstructor;
